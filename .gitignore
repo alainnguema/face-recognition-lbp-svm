@@ -1,0 +1,105 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# IPython
+profile_default/
+ipython_config.py
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# Datasets (pour éviter d'uploader de gros fichiers)
+Dataset EquipeMaroc/
+celebrityfacesdataset/
+celebrityfacesdataset - Copie/
+data/
+datasets/
+train/
+val/
+detection plaque  matricule voiture.v1i.yolov8/
+ImagesT/
+ImagesT.zip
+
+# Modèles entraînés
+*.pt
+*.pkl
+*.h5
+*.model
+*.pth
+best.pt
+yolov8n.pt
+
+# Images de sortie
+detected_face_*.jpg
+detected_face_*.png
+detection_output/
+runs/
+
+# Fichiers temporaires
+*.tmp
+*.temp
+*.log
+*.cache
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Fichiers PDF (optionnel - décommentez si vous ne voulez pas les inclure)
+# *.pdf
+
+# Archives
+*.zip
+*.rar
+*.7z
+
+# Fichiers de configuration locaux
+config.local.py
+.env
+.env.local
+
+# Fichiers de sauvegarde
+*.bak
+*.swp
+*~
+
+# Fichiers de projet compilés
+Projet Opencv/
+Simple_PySide_Base-master/
+
